@@ -1,4 +1,4 @@
-# Hey there, I'm Mahdi - I'm also known as [ELDERGARLIC][website] 👋 
+# Hey there, I'm Mahdi - I'm also known as [ELDERGARLIC][website] 🧄 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -7,7 +7,7 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a KICKASS Developer!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -51,8 +51,8 @@
 
 ### :zap: GitHub Stats:
   <img align="left" alt="ELDERGARLIC's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ELDERGARLIC&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /><br />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ELDERGARLIC&" alt="ELDERGARLIC" /><br />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ELDERGARLIC&show_icons=true&locale=en&layout=compact" alt="ELDERGARLIC" /><br />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ELDERGARLIC&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="ELDERGARLIC" /><br />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ELDERGARLIC&show_icons=true&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="ELDERGARLIC" /><br />
 
 
 
