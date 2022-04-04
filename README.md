@@ -69,16 +69,9 @@
 
 
 ### :zap: GitHub Stats:
-
-  <div><img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ELDERGARLIC&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></div>
-
-### :zap: Most Used Langueages:
-
-  <div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ELDERGARLIC&" alt="ELDERGARLIC" /></div>
-
-### :zap: Most Used Langueages:
-
-  <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ELDERGARLIC&show_icons=true&locale=en&layout=compact" alt="ELDERGARLIC" /></div>
+  <img align="left" alt="ELDERGARLIC's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ELDERGARLIC&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /><br />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ELDERGARLIC&" alt="ELDERGARLIC" /><br />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ELDERGARLIC&show_icons=true&locale=en&layout=compact" alt="ELDERGARLIC" /><br />
 
 
 
