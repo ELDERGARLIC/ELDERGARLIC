@@ -5,7 +5,6 @@
 
 [![Website](https://img.shields.io/website?label=maxellm.com&style=for-the-badge&url=https%3A%2F%2Fmaxellm.com)](https://maxellm.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eldergarlic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feldergarlic&screen_name=eldergarlic)
-[![Visit My Personal Website](https://img.shields.io/badge/-Visit%20A%20VS%20Our%20Team-Website%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://sarhangi.xyz)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldergarlic" alt="eldergarlic" /></a> </p>
 
