@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldergarlic" alt="eldergarlic" /></a> </p>
 
-- 🔭 I’m currently working as **a freelancer**
+- 🔭 I’m currently working as **Intern Data Scientist @AnadoluSigorta**
 
-- 🌱 I’m currently learning **SO MANY THINGS!**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👯 I’m looking for **creative ideas, networking and badass projects!**
 
-- 📝 I regularly write articles on [http://sarhangi.xyz/](http://sarhangi.xyz/)
+- 📝 I regularly write articles on [https://sarhangi.xyz/](https://sarhangi.xyz/)
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **mahdi@sarhangi.xyz**
+- 📫 How to reach me **mahdisarhangi@maxellm.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QuWDIIejC52uOgev5jmeBDVGuA0z2FE2/view](https://drive.google.com/file/d/1QuWDIIejC52uOgev5jmeBDVGuA0z2FE2/view)
 
