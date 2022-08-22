@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, I'm Mahdi Sarhangi - I'm also known as ELDERGARLIC 🧄</h1>
+<h1 align="left">Hey there, My name is Mahdi Sarhangi - I'm also known as ELDERGARLIC 🧄</h1>
 <h3 align="left">I'm a KICKASS Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldergarlic&label=Profile%20views&color=b10eb4&style=flat" alt="eldergarlic" /> </p>
