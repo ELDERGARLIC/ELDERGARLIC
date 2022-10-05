@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldergarlic" alt="eldergarlic" /></a> </p>
 
-- 🔭 I’m currently working as **Intern Data Scientist @AnadoluSigorta**
+- 🔭 I’m currently working as **Freelancer**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
