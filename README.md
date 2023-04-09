@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, My name is Mahdi Sarhangi - I'm also known as ELDERGARLIC 🧄</h1>
+<h1 align="left">I'm Mahdi Sarhangi - I'm also known as ELDERGARLIC</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldergarlic&label=Profile%20views&color=b10eb4&style=flat" alt="eldergarlic" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **me@sarhangi.xyz**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QuWDIIejC52uOgev5jmeBDVGuA0z2FE2/view](https://drive.google.com/file/d/1QuWDIIejC52uOgev5jmeBDVGuA0z2FE2/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-fCm0lBGchciqvRbJXFJB8-nsedcjOwj/view?usp=sharing](https://drive.google.com/file/d/1-fCm0lBGchciqvRbJXFJB8-nsedcjOwj/view?usp=sharing)
 
 - ⚡ Fun fact **I like tennis, piano and sketching**
 
