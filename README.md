@@ -1,5 +1,4 @@
 <h1 align="left">Hey there, My name is Mahdi Sarhangi - I'm also known as ELDERGARLIC 🧄</h1>
-<h3 align="left">I'm a KICKASS Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldergarlic&label=Profile%20views&color=b10eb4&style=flat" alt="eldergarlic" /> </p>
 
@@ -12,17 +11,13 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👯 I’m looking for **creative ideas, networking and badass projects!**
-
 - 📝 I regularly write articles on [https://sarhangi.xyz/](https://sarhangi.xyz/)
 
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **mahdisarhangi@maxellm.com**
+- 📫 How to reach me **me@sarhangi.xyz**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QuWDIIejC52uOgev5jmeBDVGuA0z2FE2/view](https://drive.google.com/file/d/1QuWDIIejC52uOgev5jmeBDVGuA0z2FE2/view)
 
-- ⚡ Fun fact **I like tennis, piano and painting**
+- ⚡ Fun fact **I like tennis, piano and sketching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
