@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldergarlic&label=Profile%20views&color=b10eb4&style=flat" alt="eldergarlic" /> </p>
 
-[![Website](https://img.shields.io/website?label=maxellm.com&style=for-the-badge&url=https%3A%2F%2Fmaxellm.com)](https://maxellm.com)
+[![Website](https://img.shields.io/website?label=sarhangi.xyz&style=for-the-badge&url=https%3A%2F%2Fmaxellm.com)](https://sarhangi.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eldergarlic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Feldergarlic&screen_name=eldergarlic)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldergarlic" alt="eldergarlic" /></a> </p>
