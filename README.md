@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldergarlic" alt="eldergarlic" /></a> </p>
 
-- 🔭 I’m currently working as **Intern Software Engineer @ Voco**
+- 🔭 I’m currently working as **Software Engineer @ Voco**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
