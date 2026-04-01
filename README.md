@@ -1,6 +1,6 @@
 <h1 align="center">Mahdi Sarhangi</h1>
 <p align="center">
-  AI Engineer · Data Scientist · Building Scalable Intelligent Systems
+  Data Scientist · AI Engineer · Building Scalable Intelligent Systems
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## Profile
 
-AI Engineer with a strong foundation in **machine learning, data systems, and production-grade architectures**.
+Data Scientist with a strong foundation in **machine learning, data systems, and production-grade architectures**.
 
 I specialize in designing systems where **models, data, and infrastructure work together** — from research prototypes to deployed AI products.
 
@@ -27,14 +27,14 @@ Current focus:
 
 ## Experience
 
-**AI Engineer — Argoman** *(Remote)*  
+**Data Scientist / AI Engineer — Argoman** *(Remote)*  
 *2024 – Present*  
 - Built *Aether*, an expertise discovery system combining **knowledge graphs and LLMs**  
 - Designed and deployed **RAG pipelines** with structured + unstructured data  
 - Developed scalable backend services using **FastAPI, PyTorch, LangChain**  
 - Implemented **data orchestration pipelines** (Airflow, Docker)  
 
-**Full-Stack Engineer — UNIJOB**  
+**Full-Stack Engineer / Co-Founder / CTO — UNIJOB**  
 *2023 – 2025*  
 - Architected and launched a **production-scale job platform**  
 - Built cross-platform applications (Flutter) and backend systems (Python, Firebase)  
@@ -83,7 +83,8 @@ Current focus:
 - Python, FastAPI  
 - PyTorch  
 - Docker  
-- System Design & Scalable Architectures  
+- System Design & Scalable Architectures
+- Flutter / Dart
 
 ---
 
